@@ -1,4 +1,4 @@
-# Hello eevryone, welcome to my page 🖐🏼🤩
+# Hello everyone, welcome to my page 🖐🏼🤩
  I am currently work as Data analyst On ....<br>I m currently learning more about Tableau-Python -SQL-PowerBi <br>I m looking to collaborate in visualisation project with Edx<br>I love reading , cycling and hiking<br>How to reach me : phone number , LinkedIn profile, Email: gabro_8687@yahoo.it<br>Fun fact: I m Italian but i don't like wine only aperol spritz<br>I m looking into tech, chat gpt4, ad-hoc-analysis .... launches and tools<br>Top few Things You Should Avoid While Coding: Valuable Tips for Programmers:<br>1 Avoid Overcomplicating Your Code<br>2 Avoid Hardcoding Values<br>3 Avoid Not Testing Your Code<br>4 Avoid Not Asking for Help <br>
 
 
